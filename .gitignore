@@ -1,0 +1,22 @@
+# Data files
+# *.csv
+# *.xlsx
+# *.json
+# *.pickle
+# *.parquet
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+.env
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
